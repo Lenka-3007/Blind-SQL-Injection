@@ -2,6 +2,7 @@
 
 
 
+
 ## Overview
 This repository demonstrates how attackers exploit **SQL Injection (SQLi)** and **Blind SQL Injection** vulnerabilities to bypass authentication or extract sensitive data from web applications. 
 
