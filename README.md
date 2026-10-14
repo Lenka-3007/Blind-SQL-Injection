@@ -32,4 +32,5 @@ Through exploiting these vulnerabilities, we highlight the importance of secure 
 3. **Regular Updates:** Encourage or enforce periodic password changes (at least every 6 months) for critical accounts.
 
 
+
 > **⚠️ DISCLAIMER:** This repository is for **educational purposes only**. The scripts and concepts provided here are intended strictly for learning web security and ethical hacking. The author is not responsible for any misuse or illegal activities performed with this code.
