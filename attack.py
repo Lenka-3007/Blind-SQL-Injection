@@ -1,6 +1,6 @@
 import requests
 
-
+#Add the current level url for login
 url = "http://natas15.natas.labs.overthewire.org"
 
 #authentication for natas16
